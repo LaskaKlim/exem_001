@@ -1,0 +1,15 @@
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\exm_004_div.csproj.AssemblyReference.cache
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\exm_004_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\exm_004_div.AssemblyInfoInputs.cache
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\exm_004_div.AssemblyInfo.cs
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\exm_004_div.csproj.CoreCompileInputs.cache
+C:\Users\Fushigi\Desktop\lang\exm_004_div\bin\Debug\net6.0\exm_004_div.exe
+C:\Users\Fushigi\Desktop\lang\exm_004_div\bin\Debug\net6.0\exm_004_div.deps.json
+C:\Users\Fushigi\Desktop\lang\exm_004_div\bin\Debug\net6.0\exm_004_div.runtimeconfig.json
+C:\Users\Fushigi\Desktop\lang\exm_004_div\bin\Debug\net6.0\exm_004_div.dll
+C:\Users\Fushigi\Desktop\lang\exm_004_div\bin\Debug\net6.0\exm_004_div.pdb
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\exm_004_div.dll
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\refint\exm_004_div.dll
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\exm_004_div.pdb
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\exm_004_div.genruntimeconfig.cache
+C:\Users\Fushigi\Desktop\lang\exm_004_div\obj\Debug\net6.0\ref\exm_004_div.dll
